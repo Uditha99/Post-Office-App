@@ -1,0 +1,15 @@
+D:\C#\Database New\Database New\bin\Debug\Database New.exe.config
+D:\C#\Database New\Database New\bin\Debug\Database New.exe
+D:\C#\Database New\Database New\bin\Debug\Database New.pdb
+D:\C#\Database New\Database New\obj\Debug\Database New.csproj.AssemblyReference.cache
+D:\C#\Database New\Database New\obj\Debug\Database New.csproj.SuggestedBindingRedirects.cache
+D:\C#\Database New\Database New\obj\Debug\Database_New.Properties.Resources.resources
+D:\C#\Database New\Database New\obj\Debug\Database New.csproj.GenerateResource.cache
+D:\C#\Database New\Database New\obj\Debug\Database New.csproj.CoreCompileInputs.cache
+D:\C#\Database New\Database New\obj\Debug\Database New.exe
+D:\C#\Database New\Database New\obj\Debug\Database New.pdb
+D:\C#\Database New\Database New\obj\Debug\Database_New.Login.resources
+D:\C#\Database New\Database New\obj\Debug\Database_New.Register.resources
+D:\C#\Database New\Database New\obj\Debug\Database_New.Home.resources
+D:\C#\Database New\Database New\bin\Debug\Guna.UI2.dll
+D:\C#\Database New\Database New\obj\Debug\Database New.csproj.CopyComplete
